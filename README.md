@@ -5,7 +5,7 @@ GetScrewPlotData
 **Test File**: demo_GetScrewPlotData.mlx  
 **Main Function**: GetScrewPlotData  
 ___
-**plotdata = GetScrewPlotData(T1,T2,min_ag,axis_length)**
+**plotdata = GetScrewPlotData(T1,T2,min_ag,axis_length)**  
 From T1 to T2, Screw Motion
 ___
 - Input:
